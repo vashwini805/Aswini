@@ -1,0 +1,21 @@
+import java.util.Scanner;                  
+                                           
+/**                                        
+ *                                         
+ /**                                       
+* @author aswini                           
+public class Mycappro2 {                   
+public static viod main(Strimg[] args) {   
+int min,hr,days,years;                     
+System.out.printin("enter the number of mintues");
+Scanner m=new scanner(System.in);
+hr=m.nextInt();
+hr=min/60;
+days=hr/24;
+years=days/365;
+system.out.printin("Number of days : "+days);
+system.out.printin("Number of years: "+years);
+
+}
+
+}
